@@ -98,7 +98,9 @@ We look forward to your contributions!
 
 ### Python (AgentChat)
 
-First install the packages:
+Before the first step below, kindly clarify that your Python version should be >=3.10 and <3.13, or else compatibility errors will emerge while installing autogent-ext.
+
+First, install the packages:
 
 ```bash
 pip install 'autogen-agentchat==0.4.0.dev6' 'autogen-ext[openai]==0.4.0.dev6'
